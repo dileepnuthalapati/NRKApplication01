@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>NRKSolutions</title>
+</head>
+<body>
+
+<h1>About reach the goal</h1>
+<p>This website is created for deploying in azure cloud using github repositories</p>
+
+</body>
+</html
